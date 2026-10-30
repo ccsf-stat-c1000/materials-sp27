@@ -1,3 +1,3 @@
 # STAT C1000 Materials
-* Spring 2027
-* CRN 36275
+* Semester: Spring 2027
+* CRN: 36275
