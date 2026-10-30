@@ -1,1 +1,1 @@
-# STAT C1000 Spring 2027 Materials
+# Spring 2027 Materials for STAT C1000 (Lum)
