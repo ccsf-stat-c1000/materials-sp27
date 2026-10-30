@@ -1,2 +1,1 @@
-# STAT C1000 Materials
-* Semester: Spring 2027
+# STAT C1000 Spring 2027 Materials
